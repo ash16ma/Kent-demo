@@ -3,7 +3,7 @@
 <param ve-entity eid="Q183" aliases="Alsace">
 <param ve-entity eid="Q90" title="Paris">
 
-<param ve-map center="Q90" zoom="8" basemap="Stamen_TerrainBackground">
+<param ve-map center="Q90" zoom="8" basemap="Esri_WorldPhysical">
 
 # Good Dogs
 

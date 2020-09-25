@@ -3,7 +3,7 @@
 <param ve-entity eid="Q183" aliases="Alsace">
 <param ve-entity eid="Q90" title="Paris"
 
-<param ve-map center="Q183" zoom="10">
+<param ve-map center="Q90" zoom="8">
 
 # Good Dogs
 

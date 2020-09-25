@@ -11,7 +11,6 @@
 
 The German Shepherd (German: Deutscher Schäferhund, German pronunciation: [ˈdɔʏtʃɐ ˈʃɛːfɐˌhʊnt]) is a breed of medium to large-sized working dog that originated in Germany in the Alsace region. In the English language, the breed's officially recognized name is German Shepherd Dog (GSD). The breed was officially known as the "Alsatian Wolf Dog" in the UK from after the First World War until 1977 when its name was changed back to German Shepherd.[2] Despite its wolf-like appearance, the German Shepherd is a relatively modern breed of dog, with their origin dating to 1899. Paris
 
-<param ve-map center="Q183" zoom="10">
 
 ##Continued
 

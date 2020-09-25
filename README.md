@@ -3,7 +3,7 @@
 <param ve-entity eid="Q183" aliases="Alsace" marker-symbol="alicorn">
 <param ve-entity eid="Q90" title="Paris">
 
-<param ve-map center="Q90" zoom="8" marker-style="circle" radius="8" basemap="Esri_WorldPhysical">
+<param ve-map center="Q90" zoom="8" marker-style="circle" radius="6" basemap="Esri_WorldPhysical">
 
 # Good Dogs
 

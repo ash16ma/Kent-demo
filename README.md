@@ -10,6 +10,7 @@
 ##Analysis
 
 The German Shepherd (German: Deutscher Schäferhund, German pronunciation: [ˈdɔʏtʃɐ ˈʃɛːfɐˌhʊnt]) is a breed of medium to large-sized working dog that originated in Germany in the Alsace region. In the English language, the breed's officially recognized name is German Shepherd Dog (GSD). The breed was officially known as the "Alsatian Wolf Dog" in the UK from after the First World War until 1977 when its name was changed back to German Shepherd.[2] Despite its wolf-like appearance, the German Shepherd is a relatively modern breed of dog, with their origin dating to 1899. Paris. Street people.
+<span data->Street people </span>
 
 <param ve-image iiif url="https://raw.githubusercontent.com/ash16ma/Kent-demo/master/images/Nelson Crescent.jpg" label="Nelson Crescent" attribution="spurious" region="145,7,290,362">
 
@@ -22,6 +23,6 @@ As a herding dog, German Shepherds are working dogs developed originally for her
 
 As a herding dog, German Shepherds are working dogs developed originally for herding sheep. Since that time, however, because of their strength, intelligence, trainability, and obedience, German Shepherds around the world are often the preferred breed for many types of work, including disability assistance, search-and-rescue, police and military roles and acting.[3] The German Shepherd is the second-most registered breed by the American Kennel Club[4] and seventh-most registered breed by The Kennel Club in the United Kingdom.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODcxOTk3NCw2MjgwMzg3MDYsNzM5Mz
-MyMDU0LDI4MDY1MTcwMywtNTgyMzExNDM4XX0=
+eyJoaXN0b3J5IjpbLTIxMTYxMzY5NDQsNjI4MDM4NzA2LDczOT
+MzMjA1NCwyODA2NTE3MDMsLTU4MjMxMTQzOF19
 -->
